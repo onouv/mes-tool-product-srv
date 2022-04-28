@@ -22,3 +22,5 @@ On PartOutRejected :
   Y.RAP++
   post to Yield value Topic
 ```
+## Fit Into Overall Architecture
+![Overall Architecture](mes-deploy.png)
